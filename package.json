@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "dependencies": {
+    "browserify": "9.0.8",
+    "punchline": "0.1.x",
+    "punchicize-browserify": "0.1.x"
+  }
+}
